@@ -1,0 +1,54 @@
+{
+  "menu": {
+    "title": "Nuestro Menú",
+    "categories": "Categorías",
+    "products": "Productos",
+    "price": "Precio",
+    "available": "Disponible",
+    "unavailable": "No disponible",
+    "ingredients": "Ingredientes",
+    "allergens": "Alérgenos"
+  },
+  "admin": {
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "dashboard": "Panel de Control",
+    "categories": {
+      "title": "Gestionar Categorías",
+      "add": "Agregar Categoría",
+      "edit": "Editar Categoría",
+      "delete": "Eliminar Categoría",
+      "name": "Nombre",
+      "description": "Descripción",
+      "image": "Imagen",
+      "order": "Orden"
+    },
+    "products": {
+      "title": "Gestionar Productos",
+      "add": "Agregar Producto",
+      "edit": "Editar Producto",
+      "delete": "Eliminar Producto",
+      "name": "Nombre",
+      "description": "Descripción",
+      "price": "Precio",
+      "image": "Imagen",
+      "category": "Categoría",
+      "available": "Disponible",
+      "order": "Orden",
+      "ingredients": "Ingredientes",
+      "allergens": "Alérgenos"
+    }
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "success": "Operación exitosa",
+    "confirm": "¿Estás seguro?"
+  }
+}
