@@ -1,0 +1,54 @@
+{
+  "menu": {
+    "title": "Our Menu",
+    "categories": "Categories",
+    "products": "Products",
+    "price": "Price",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "ingredients": "Ingredients",
+    "allergens": "Allergens"
+  },
+  "admin": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "dashboard": "Dashboard",
+    "categories": {
+      "title": "Manage Categories",
+      "add": "Add Category",
+      "edit": "Edit Category",
+      "delete": "Delete Category",
+      "name": "Name",
+      "description": "Description",
+      "image": "Image",
+      "order": "Order"
+    },
+    "products": {
+      "title": "Manage Products",
+      "add": "Add Product",
+      "edit": "Edit Product",
+      "delete": "Delete Product",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price",
+      "image": "Image",
+      "category": "Category",
+      "available": "Available",
+      "order": "Order",
+      "ingredients": "Ingredients",
+      "allergens": "Allergens"
+    }
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "An error has occurred",
+    "success": "Operation successful",
+    "confirm": "Are you sure?"
+  }
+}
